@@ -1,7 +1,7 @@
 OpenPnP Job Allocator
 =====================
 
-Copyright 2025 SuperHouse Automation Pty Ltd  www.superhouse.tv
+Copyright 2025 Jonathan Oxer <jon@oxer.com.au>
 
 Processes OpenPnP job files to split them across multiple machine
 configurations. This can be used when a board has some parts
