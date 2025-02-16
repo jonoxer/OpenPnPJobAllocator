@@ -42,11 +42,6 @@ INSTALLATION
 To come.
 
 
-CREDITS
--------
-Designed by Jonathan Oxer jon@oxer.com.au
-
-
 DISTRIBUTION
 ------------
 The specific terms of distribution of this project are governed by the
